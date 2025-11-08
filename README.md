@@ -5,15 +5,6 @@ The idea is simple — turn book metadata and descriptions into vectors, then us
 
 ---
 
-## 📑 Table of Contents  
-- [Description](#description)   
-- [Demo](#demo)  
-- [Key Features](#key-features)  
-- [Built With](#built-with)  
-- [Future Improvements](#future-improvements)  
-
----
-
 ## 🧩Description  
 
 This project creates a **semantic book search system** using **Ollama’s local embedding API** and **FAISS (Facebook AI Similarity Search)**.  
